@@ -2,7 +2,7 @@
 
 1)To create virtual environtment , use 
   "$python -m venv <virtual_environment_name>"
-"$<virtual_environment_name>\Scripts\activate"
+  "$<virtual_environment_name>\Scripts\activate"
   
 2)after the creation complete, install all module requirement in the virtual environment
 MAKE SURE INSTALL IN (<virtual_environment_name>).
