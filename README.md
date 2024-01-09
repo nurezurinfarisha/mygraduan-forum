@@ -1,6 +1,6 @@
 ----This folder DOESNT contain virtual environment folder--
 
-1)To create virtual environtment , use 
+1)To create virtual environtment , use
   $python -m venv <virtual_environment_name>
   $<virtual_environment_name>\Scripts\activate
   
